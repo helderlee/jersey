@@ -1,1 +1,1 @@
-# jersey
+# Jersey JAX-RS
